@@ -1,0 +1,10 @@
+bin/
+obj/
+.idea/
+.vs/
+.DS_Store
+__MACOSX/
+TestResults/
+pos-data.json
+*.csv
+*.user
